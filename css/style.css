@@ -50,8 +50,8 @@ div{
     background: #FF0000;
     margin-left: 50px;
     text-align: right;
-    border-left: 10px;
-    border-bottom: 3px;
+    border-left: 10px solid #FFFFFF;
+    border-bottom: 3px solid #FFFFFF;
 
 }
 
@@ -59,8 +59,8 @@ div{
     background: #0000FF;
     margin-right: 50px;
     text-align: left;
-    border-right: 10px;
-    border-bottom: 3px;
+    border-right: 10px solid #FFFFFF;
+    border-bottom: 3px solid #FFFFFF;
 }
 
 .yellow{
@@ -68,8 +68,8 @@ div{
     margin-left: 50px;
     text-align: right;
     color: #000000;
-    border-left: 10px;
-    border-bottom: 3px;
+    border-left: 10px solid #FFFFFF;
+    border-bottom: 3px solid #FFFFFF;
     
 }
 
@@ -81,8 +81,8 @@ div{
     background: #008500;
     margin-right: 50px;
     text-align: left;
-    border-right: 10px;
-    border-bottom: 3px;
+    border-right: 10px solid #FFFFFF;
+    border-bottom: 3px solid #FFFFFF;
 }
 
 span{
